@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "date": "2022-08-12T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 180,
+      "comment": "good",
+      "id": 1
+    },
+    {
+      "productName": "Iphone 13",
+      "category": "Electronics",
+      "date": "2022-08-12T18:30:00.000Z",
+      "freshness": "Refurbished",
+      "price": 15000,
+      "comment": "good phone",
+      "id": 2
+    },
+    {
+      "productName": "samsung 20 inch let tv",
+      "category": "Electronics",
+      "date": "2022-08-19T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 10000,
+      "comment": "resale",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
